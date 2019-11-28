@@ -1,0 +1,4 @@
+Contiene:
+Proyecto spring mvc con jdbc con oracle o mysql
+proyecto spring mvc con jpa usando mysql
+proyecto springboot con jpa usando mysql

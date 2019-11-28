@@ -1,0 +1,9 @@
+com\mycompany\girosfinanzastestmvc\model\State.class
+com\mycompany\girosyfinanzastestmvc\repositories\UserRepository.class
+com\mycompany\girosfinanzastestmvc\client\UserClient.class
+com\mycompany\girosyfinanzastestmvc\repositories\StateRepository.class
+com\mycompany\girosfinanzastestmvc\client\EstadoClient.class
+com\mycompany\girosfinanzastestmvc\model\User.class
+com\mycompany\girosfinanzastestmvc\config\AppConfig.class
+com\mycompany\girosfinanzastestmvc\controller\ContactsController.class
+com\mycompany\girosfinanzastestmvc\dto\UserDTO.class
